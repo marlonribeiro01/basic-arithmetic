@@ -119,6 +119,7 @@ public class BasicArithmeticActivity extends AppCompatActivity
             mathOperations.add(i, operation);
 
             resultEditText.setFocusable(true);
+
         }
     }
 
